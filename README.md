@@ -1,7 +1,13 @@
+
+# REPO FOR THE ERC20 TOKEN
+# https://github.com/Pelumi527/Iron
+
+
+
 # BlockNFT
 Blockgames NFT Contract
 
-## contract address 
+## NFT contract address 
 https://rinkeby.etherscan.io/address/0x9a2ef28e0780a1533d3946075fc708acb727e440#code
 
 ## image link
